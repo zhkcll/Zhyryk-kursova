@@ -1,4 +1,4 @@
-# Курсова робота з програмування (Python, Git, Unit Testing)
+# Курсова робота з програмування (Python, Git, Unit Testing) Zhyryk IM-34
 
 ## Вступ
 
